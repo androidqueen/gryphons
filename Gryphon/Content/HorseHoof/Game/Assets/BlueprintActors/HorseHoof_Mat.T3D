@@ -1,0 +1,20 @@
+Begin Object Class=Material Name="HorseHoof_Mat"
+   Begin Object Class=MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.588000,G=0.588000,B=0.588000,A=0.000000)
+      ExpressionGUID=96A8BC464909A414DC615D983BC60BF1
+      MaterialExpressionGuid=664983DA4A8F3A5603838997100010F0
+      Material=Material'HorseHoof_Mat'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=72EF7AE74535616482AA97998C32EF53
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=0E00386C4EB6DA3966D07FA825A334C1
+End Object
