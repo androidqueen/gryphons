@@ -1,0 +1,1070 @@
+﻿Log file open, 11/12/16 17:15:16
+LogInit:Display: Running engine for game: Gryphon
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1548970974) SRandInit(1548970975).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.066927
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.11.12-23.15.16:518][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.12-23.15.16:518][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.11.12-23.15.16:526][  0]LogInit: Computer: WINPRO-PC
+[2016.11.12-23.15.16:526][  0]LogInit: User: Winpro
+[2016.11.12-23.15.16:526][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.11.12-23.15.16:526][  0]LogInit: High frequency timer resolution =3.897226 MHz
+[2016.11.12-23.15.16:526][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2016.11.12-23.15.16:526][  0]LogMemory: Platform Memory Stats for Windows
+[2016.11.12-23.15.16:526][  0]LogMemory: Process Physical Memory: 256.36 MB used, 256.36 MB peak
+[2016.11.12-23.15.16:526][  0]LogMemory: Process Virtual Memory: 260.11 MB used, 260.11 MB peak
+[2016.11.12-23.15.16:526][  0]LogMemory: Physical Memory: 4824.08 MB used, 16256.97 MB total
+[2016.11.12-23.15.16:526][  0]LogMemory: Virtual Memory: 623.21 MB used, 134217728.00 MB total
+[2016.11.12-23.15.16:550][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2016.11.12-23.15.17:005][  0]LogD3D11RHI: D3D11 adapters:
+[2016.11.12-23.15.17:439][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2016.11.12-23.15.17:439][  0]LogD3D11RHI:       4060/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2016.11.12-23.15.17:446][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2016.11.12-23.15.17:446][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2016.11.12-23.15.17:446][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.11.12-23.15.17:446][  0]LogD3D11RHI:       0/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.11.12-23.15.17:446][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.11.12-23.15.17:450][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.11.12-23.15.17:450][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2016.11.12-23.15.17:450][  0]LogWindows: EnumDisplayDevices:
+[2016.11.12-23.15.17:450][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2016.11.12-23.15.17:450][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2016.11.12-23.15.17:450][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2016.11.12-23.15.17:450][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2016.11.12-23.15.17:450][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2016.11.12-23.15.17:450][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2016.11.12-23.15.17:450][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2016.11.12-23.15.17:452][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2016.11.12-23.15.17:452][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2016.11.12-23.15.17:452][  0]LogD3D11RHI:   Driver Version: 375.70 (internal:21.21.13.7570, unified:375.70)
+[2016.11.12-23.15.17:452][  0]LogD3D11RHI:      Driver Date: 10-25-2016
+[2016.11.12-23.15.17:452][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.11.12-23.15.17:863][  0]LogD3D11RHI: Async texture creation enabled
+[2016.11.12-23.15.18:007][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2016.11.12-23.15.18:007][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Intermediate/Shaders/WorkingDirectory/16156/).
+[2016.11.12-23.15.18:007][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Winpro/AppData/Local/Temp/UnrealShaderWorkingDir/B0D243EC4A364F4F0C5A2391592FC342/'.
+[2016.11.12-23.15.18:007][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.11.12-23.15.18:759][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.11.12-23.15.18:765][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.11.12-23.15.18:771][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.11.12-23.15.18:777][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.11.12-23.15.18:783][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.11.12-23.15.18:789][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.11.12-23.15.18:793][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.11.12-23.15.18:798][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.11.12-23.15.18:803][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.11.12-23.15.18:808][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.11.12-23.15.18:814][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.11.12-23.15.18:827][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.11.12-23.15.18:827][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.11.12-23.15.18:827][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.11.12-23.15.18:846][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.11.12-23.15.18:852][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.11.12-23.15.18:856][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.11.12-23.15.18:862][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.11.12-23.15.18:867][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.11.12-23.15.18:873][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.11.12-23.15.18:873][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.11.12-23.15.18:920][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.11.12-23.15.18:971][  0]LogDerivedDataCache: Loaded boot cache 0.05s 65MB C:/Users/Winpro/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.11.12-23.15.18:971][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Winpro/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.11.12-23.15.18:971][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.11.12-23.15.18:971][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.11.12-23.15.18:971][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.11.12-23.15.18:971][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.11.12-23.15.18:985][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.11.12-23.15.18:997][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Winpro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.11.12-23.15.19:155][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.12-23.15.19:156][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.11.12-23.15.19:225][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.11.12-23.15.19:225][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.11.12-23.15.19:225][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.11.12-23.15.19:273][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.11.12-23.15.19:488][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: gryphon, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 4018664884
+[2016.11.12-23.15.19:522][  0]LogAssetRegistry: FAssetRegistry took 0.0220 seconds to start up
+[2016.11.12-23.15.19:545][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.021571 seconds
+[2016.11.12-23.15.19:549][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2016.11.12-23.15.19:549][  0]LogUObjectAllocator: 6125456 out of 0 bytes used by permanent object pool.
+[2016.11.12-23.15.19:549][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.11.12-23.15.19:552][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.11.12-23.15.19:692][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.12-23.15.19:692][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.12-23.15.20:150][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.11.12-23.15.20:166][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.11.12-23.15.20:342][  0]SourceControl: Info Source control is disabled
+[2016.11.12-23.15.20:885][  0]LogEngine: Initializing Engine...
+[2016.11.12-23.15.20:905][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-438C9776
+[2016.11.12-23.15.21:014][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.11.12-23.15.21:030][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.12-23.15.21:051][  0]LogInit: FAudioDevice initialized.
+[2016.11.12-23.15.21:079][  0]LogDerivedDataCache: Saved boot cache 0.03s 65MB C:/Users/Winpro/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.11.12-23.15.21:087][  0]LogInit: Texture streaming: Enabled
+[2016.11.12-23.15.21:103][  0]LogInit: Transaction tracking system initialized
+[2016.11.12-23.15.21:116][  0]BlueprintLog: New page: Editor Load
+[2016.11.12-23.15.21:161][  0]LocalizationService: Info Localization service is disabled
+[2016.11.12-23.15.21:214][  0]LogConsoleResponse:Display: 
+[2016.11.12-23.15.21:300][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.11.12-23.15.21:300][  0]LogCook:Display: Mobile HDR setting 0
+[2016.11.12-23.15.21:497][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/' took 0.01s
+[2016.11.12-23.15.21:497][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/Gryphon/GryphonMaster.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.12-23.15.21:498][  0]LightingResults: New page: Lighting Build
+[2016.11.12-23.15.21:500][  0]MapCheck: New page: Map Check
+[2016.11.12-23.15.21:500][  0]LightingResults: New page: Lighting Build
+[2016.11.12-23.15.21:517][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/group1_pCube2Mat'
+[2016.11.12-23.15.21:517][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/group1_pCube2Mat' while loading ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/Assets/charger_1.uasset.
+[2016.11.12-23.15.21:517][  0]LoadErrors:Error: Error /Game/Assets/charger_1 : Can't find file for asset. /Game/MobileStarterContent/Props/group1_pCube2Mat
+[2016.11.12-23.15.21:517][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/group1_pCube6Mat'
+[2016.11.12-23.15.21:517][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/group1_pCube6Mat' while loading ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/Assets/charger_1.uasset.
+[2016.11.12-23.15.21:517][  0]LoadErrors:Error: Error /Game/Assets/charger_1 : Can't find file for asset. /Game/MobileStarterContent/Props/group1_pCube6Mat
+[2016.11.12-23.15.21:517][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/group1_pCube7Mat'
+[2016.11.12-23.15.21:517][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/group1_pCube7Mat' while loading ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/Assets/charger_1.uasset.
+[2016.11.12-23.15.21:517][  0]LoadErrors:Error: Error /Game/Assets/charger_1 : Can't find file for asset. /Game/MobileStarterContent/Props/group1_pCube7Mat
+[2016.11.12-23.15.21:517][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/group1_pCube8Mat'
+[2016.11.12-23.15.21:518][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/group1_pCube8Mat' while loading ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/Assets/charger_1.uasset.
+[2016.11.12-23.15.21:518][  0]LoadErrors:Error: Error /Game/Assets/charger_1 : Can't find file for asset. /Game/MobileStarterContent/Props/group1_pCube8Mat
+[2016.11.12-23.15.21:518][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/group1_pCylinder2Mat'
+[2016.11.12-23.15.21:518][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/group1_pCylinder2Mat' while loading ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/Assets/charger_1.uasset.
+[2016.11.12-23.15.21:518][  0]LoadErrors:Error: Error /Game/Assets/charger_1 : Can't find file for asset. /Game/MobileStarterContent/Props/group1_pCylinder2Mat
+[2016.11.12-23.15.21:518][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/group1_pCylinder3Mat'
+[2016.11.12-23.15.21:518][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/group1_pCylinder3Mat' while loading ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/Assets/charger_1.uasset.
+[2016.11.12-23.15.21:518][  0]LoadErrors:Error: Error /Game/Assets/charger_1 : Can't find file for asset. /Game/MobileStarterContent/Props/group1_pCylinder3Mat
+[2016.11.12-23.15.21:518][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/group1_pCylinder4Mat'
+[2016.11.12-23.15.21:518][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/group1_pCylinder4Mat' while loading ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/Assets/charger_1.uasset.
+[2016.11.12-23.15.21:518][  0]LoadErrors:Error: Error /Game/Assets/charger_1 : Can't find file for asset. /Game/MobileStarterContent/Props/group1_pCylinder4Mat
+[2016.11.12-23.15.21:518][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/group1_pSphere1Mat'
+[2016.11.12-23.15.21:518][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/group1_pSphere1Mat' while loading ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/Assets/charger_1.uasset.
+[2016.11.12-23.15.21:518][  0]LoadErrors:Error: Error /Game/Assets/charger_1 : Can't find file for asset. /Game/MobileStarterContent/Props/group1_pSphere1Mat
+[2016.11.12-23.15.21:518][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/pCube1_group1Mat'
+[2016.11.12-23.15.21:518][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/pCube1_group1Mat' while loading ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/Assets/charger_1.uasset.
+[2016.11.12-23.15.21:518][  0]LoadErrors:Error: Error /Game/Assets/charger_1 : Can't find file for asset. /Game/MobileStarterContent/Props/pCube1_group1Mat
+[2016.11.12-23.15.21:519][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/group1_pCube2Mat'
+[2016.11.12-23.15.21:519][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/group1_pCube2Mat' while loading ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/Assets/charger_1.uasset.
+[2016.11.12-23.15.21:519][  0]LoadErrors:Error: Error /Game/Assets/charger_1 : Can't find file for asset. /Game/MobileStarterContent/Props/group1_pCube2Mat
+[2016.11.12-23.15.21:519][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/group1_pCube6Mat'
+[2016.11.12-23.15.21:519][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/group1_pCube6Mat' while loading ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/Assets/charger_1.uasset.
+[2016.11.12-23.15.21:519][  0]LoadErrors:Error: Error /Game/Assets/charger_1 : Can't find file for asset. /Game/MobileStarterContent/Props/group1_pCube6Mat
+[2016.11.12-23.15.21:519][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/group1_pCube7Mat'
+[2016.11.12-23.15.21:519][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/group1_pCube7Mat' while loading ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/Assets/charger_1.uasset.
+[2016.11.12-23.15.21:519][  0]LoadErrors:Error: Error /Game/Assets/charger_1 : Can't find file for asset. /Game/MobileStarterContent/Props/group1_pCube7Mat
+[2016.11.12-23.15.21:519][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/group1_pCube8Mat'
+[2016.11.12-23.15.21:519][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/group1_pCube8Mat' while loading ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/Assets/charger_1.uasset.
+[2016.11.12-23.15.21:519][  0]LoadErrors:Error: Error /Game/Assets/charger_1 : Can't find file for asset. /Game/MobileStarterContent/Props/group1_pCube8Mat
+[2016.11.12-23.15.21:519][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/group1_pCylinder2Mat'
+[2016.11.12-23.15.21:519][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/group1_pCylinder2Mat' while loading ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/Assets/charger_1.uasset.
+[2016.11.12-23.15.21:519][  0]LoadErrors:Error: Error /Game/Assets/charger_1 : Can't find file for asset. /Game/MobileStarterContent/Props/group1_pCylinder2Mat
+[2016.11.12-23.15.21:519][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/group1_pCylinder3Mat'
+[2016.11.12-23.15.21:519][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/group1_pCylinder3Mat' while loading ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/Assets/charger_1.uasset.
+[2016.11.12-23.15.21:519][  0]LoadErrors:Error: Error /Game/Assets/charger_1 : Can't find file for asset. /Game/MobileStarterContent/Props/group1_pCylinder3Mat
+[2016.11.12-23.15.21:519][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/group1_pCylinder4Mat'
+[2016.11.12-23.15.21:519][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/group1_pCylinder4Mat' while loading ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/Assets/charger_1.uasset.
+[2016.11.12-23.15.21:519][  0]LoadErrors:Error: Error /Game/Assets/charger_1 : Can't find file for asset. /Game/MobileStarterContent/Props/group1_pCylinder4Mat
+[2016.11.12-23.15.21:519][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/group1_pSphere1Mat'
+[2016.11.12-23.15.21:520][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/group1_pSphere1Mat' while loading ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/Assets/charger_1.uasset.
+[2016.11.12-23.15.21:520][  0]LoadErrors:Error: Error /Game/Assets/charger_1 : Can't find file for asset. /Game/MobileStarterContent/Props/group1_pSphere1Mat
+[2016.11.12-23.15.21:520][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/pCube1_group1Mat'
+[2016.11.12-23.15.21:520][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/pCube1_group1Mat' while loading ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/Assets/charger_1.uasset.
+[2016.11.12-23.15.21:520][  0]LoadErrors:Error: Error /Game/Assets/charger_1 : Can't find file for asset. /Game/MobileStarterContent/Props/pCube1_group1Mat
+[2016.11.12-23.15.21:523][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/pCube1Mat'
+[2016.11.12-23.15.21:523][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/pCube1Mat' while loading ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/Assets/Table_Basic.uasset.
+[2016.11.12-23.15.21:523][  0]LoadErrors:Error: Error /Game/Assets/Table_Basic : Can't find file for asset. /Game/MobileStarterContent/Props/pCube1Mat
+[2016.11.12-23.15.21:523][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/pCube1Mat'
+[2016.11.12-23.15.21:523][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/pCube1Mat' while loading ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/Assets/Table_Basic.uasset.
+[2016.11.12-23.15.21:523][  0]LoadErrors:Error: Error /Game/Assets/Table_Basic : Can't find file for asset. /Game/MobileStarterContent/Props/pCube1Mat
+[2016.11.12-23.15.21:532][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/pCube1Mat'
+[2016.11.12-23.15.21:532][  0]LoadErrors: Info Failed to load /Game/MobileStarterContent/Props/pCube1Mat.pCube1Mat Referenced by Table_Basic
+[2016.11.12-23.15.21:533][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/pCube1Mat' while loading NULL.
+[2016.11.12-23.15.21:533][  0]LoadErrors: Info Failed to load /Game/MobileStarterContent/Props/pCube1Mat.pCube1Mat Referenced by Table_Basic
+[2016.11.12-23.15.21:535][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/group1_pCube2Mat'
+[2016.11.12-23.15.21:535][  0]LoadErrors: Info Failed to load /Game/MobileStarterContent/Props/group1_pCube2Mat.group1_pCube2Mat Referenced by charger_1
+[2016.11.12-23.15.21:535][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/group1_pCube2Mat' while loading NULL.
+[2016.11.12-23.15.21:535][  0]LoadErrors: Info Failed to load /Game/MobileStarterContent/Props/group1_pCube2Mat.group1_pCube2Mat Referenced by charger_1
+[2016.11.12-23.15.21:535][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/group1_pCube6Mat'
+[2016.11.12-23.15.21:535][  0]LoadErrors: Info Failed to load /Game/MobileStarterContent/Props/group1_pCube6Mat.group1_pCube6Mat Referenced by charger_1
+[2016.11.12-23.15.21:535][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/group1_pCube6Mat' while loading NULL.
+[2016.11.12-23.15.21:535][  0]LoadErrors: Info Failed to load /Game/MobileStarterContent/Props/group1_pCube6Mat.group1_pCube6Mat Referenced by charger_1
+[2016.11.12-23.15.21:536][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/group1_pCube7Mat'
+[2016.11.12-23.15.21:536][  0]LoadErrors: Info Failed to load /Game/MobileStarterContent/Props/group1_pCube7Mat.group1_pCube7Mat Referenced by charger_1
+[2016.11.12-23.15.21:536][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/group1_pCube7Mat' while loading NULL.
+[2016.11.12-23.15.21:536][  0]LoadErrors: Info Failed to load /Game/MobileStarterContent/Props/group1_pCube7Mat.group1_pCube7Mat Referenced by charger_1
+[2016.11.12-23.15.21:536][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/group1_pCube8Mat'
+[2016.11.12-23.15.21:536][  0]LoadErrors: Info Failed to load /Game/MobileStarterContent/Props/group1_pCube8Mat.group1_pCube8Mat Referenced by charger_1
+[2016.11.12-23.15.21:536][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/group1_pCube8Mat' while loading NULL.
+[2016.11.12-23.15.21:536][  0]LoadErrors: Info Failed to load /Game/MobileStarterContent/Props/group1_pCube8Mat.group1_pCube8Mat Referenced by charger_1
+[2016.11.12-23.15.21:536][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/group1_pCylinder2Mat'
+[2016.11.12-23.15.21:536][  0]LoadErrors: Info Failed to load /Game/MobileStarterContent/Props/group1_pCylinder2Mat.group1_pCylinder2Mat Referenced by charger_1
+[2016.11.12-23.15.21:536][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/group1_pCylinder2Mat' while loading NULL.
+[2016.11.12-23.15.21:536][  0]LoadErrors: Info Failed to load /Game/MobileStarterContent/Props/group1_pCylinder2Mat.group1_pCylinder2Mat Referenced by charger_1
+[2016.11.12-23.15.21:536][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/group1_pCylinder3Mat'
+[2016.11.12-23.15.21:536][  0]LoadErrors: Info Failed to load /Game/MobileStarterContent/Props/group1_pCylinder3Mat.group1_pCylinder3Mat Referenced by charger_1
+[2016.11.12-23.15.21:536][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/group1_pCylinder3Mat' while loading NULL.
+[2016.11.12-23.15.21:536][  0]LoadErrors: Info Failed to load /Game/MobileStarterContent/Props/group1_pCylinder3Mat.group1_pCylinder3Mat Referenced by charger_1
+[2016.11.12-23.15.21:536][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/group1_pCylinder4Mat'
+[2016.11.12-23.15.21:536][  0]LoadErrors: Info Failed to load /Game/MobileStarterContent/Props/group1_pCylinder4Mat.group1_pCylinder4Mat Referenced by charger_1
+[2016.11.12-23.15.21:536][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/group1_pCylinder4Mat' while loading NULL.
+[2016.11.12-23.15.21:536][  0]LoadErrors: Info Failed to load /Game/MobileStarterContent/Props/group1_pCylinder4Mat.group1_pCylinder4Mat Referenced by charger_1
+[2016.11.12-23.15.21:536][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/group1_pSphere1Mat'
+[2016.11.12-23.15.21:536][  0]LoadErrors: Info Failed to load /Game/MobileStarterContent/Props/group1_pSphere1Mat.group1_pSphere1Mat Referenced by charger_1
+[2016.11.12-23.15.21:536][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/group1_pSphere1Mat' while loading NULL.
+[2016.11.12-23.15.21:536][  0]LoadErrors: Info Failed to load /Game/MobileStarterContent/Props/group1_pSphere1Mat.group1_pSphere1Mat Referenced by charger_1
+[2016.11.12-23.15.21:536][  0]LogLinker:Warning: Can't find file '/Game/MobileStarterContent/Props/pCube1_group1Mat'
+[2016.11.12-23.15.21:536][  0]LoadErrors: Info Failed to load /Game/MobileStarterContent/Props/pCube1_group1Mat.pCube1_group1Mat Referenced by charger_1
+[2016.11.12-23.15.21:537][  0]LogLinker:Warning: Can't find file for asset '/Game/MobileStarterContent/Props/pCube1_group1Mat' while loading NULL.
+[2016.11.12-23.15.21:537][  0]LoadErrors: Info Failed to load /Game/MobileStarterContent/Props/pCube1_group1Mat.pCube1_group1Mat Referenced by charger_1
+[2016.11.12-23.15.21:561][  0]LogAIModule: Creating AISystem for world GryphonMaster
+[2016.11.12-23.15.21:566][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.11.12-23.15.21:566][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.12-23.15.21:596][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 30.056ms to complete.
+[2016.11.12-23.15.21:596][  0]LogFileHelpers: Loading map 'GryphonMaster' took 0.099
+[2016.11.12-23.15.21:688][  0]LogCollectionManager: Loaded 0 collections in 0.001304 seconds
+[2016.11.12-23.15.21:727][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/Collections/' took 0.01s
+[2016.11.12-23.15.21:727][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/Developers/Winpro/Collections/' took 0.01s
+[2016.11.12-23.15.21:727][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/Collections/' took 0.01s
+[2016.11.12-23.15.21:727][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2016.11.12-23.15.21:734][  0]LogContentBrowser: Native class hierarchy populated in 0.0067 seconds. Added 2141 classes and 415 folders.
+[2016.11.12-23.15.21:736][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.11.12-23.15.21:736][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.11.12-23.15.21:736][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0004 seconds. Added 12 classes and 0 folders.
+[2016.11.12-23.15.21:739][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2016.11.12-23.15.21:767][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2016.11.12-23.15.21:770][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2016.11.12-23.15.21:780][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.11.12-23.15.21:784][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.11.12-23.15.21:809][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2016.11.12-23.15.21:809][  0]LogLoad: (Engine Initialization) Total time: 5.93 seconds
+[2016.11.12-23.15.21:809][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2016.11.12-23.15.21:809][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.11.12-23.15.21:809][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.11.12-23.15.21:818][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.12-23.15.21:819][  0]LogOcInput: OculusInput pre-init called
+[2016.11.12-23.15.21:836][  0]SourceControl: Info On branch master
+[2016.11.12-23.15.21:836][  0]SourceControl: Info Your branch is up-to-date with 'origin/master'.
+[2016.11.12-23.15.21:836][  0]SourceControl: Info Changes not staged for commit:
+[2016.11.12-23.15.21:836][  0]SourceControl: Info   (use "git add <file>..." to update what will be committed)
+[2016.11.12-23.15.21:836][  0]SourceControl: Info   (use "git checkout -- <file>..." to discard changes in working directory)
+[2016.11.12-23.15.21:836][  0]SourceControl: Info 	modified:   Gryphon/Content/MobileStarterContent/Architecture/Floor_400x400.uasset
+[2016.11.12-23.15.21:837][  0]SourceControl: Info 	modified:   Gryphon/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2016.11.12-23.15.21:837][  0]SourceControl: Info Untracked files:
+[2016.11.12-23.15.21:837][  0]SourceControl: Info   (use "git add <file>..." to include in what will be committed)
+[2016.11.12-23.15.21:837][  0]SourceControl: Info 	Gryphon/Intermediate/
+[2016.11.12-23.15.21:837][  0]SourceControl: Info 	Gryphon/Saved/AutoScreenshot.png
+[2016.11.12-23.15.21:837][  0]SourceControl: Info 	Gryphon/Saved/Autosaves/
+[2016.11.12-23.15.21:837][  0]SourceControl: Info 	Gryphon/Saved/Backup/Floor_400x400_2016-11-12-16-46-00.uasset
+[2016.11.12-23.15.21:837][  0]SourceControl: Info 	Gryphon/Saved/Backup/Horse_Unskinned_2016-11-12-17-01-04.uasset
+[2016.11.12-23.15.21:837][  0]SourceControl: Info 	Gryphon/Saved/Backup/MotionControllerMap_2016-11-12-16-46-46.umap
+[2016.11.12-23.15.21:837][  0]SourceControl: Info 	Gryphon/Saved/Backup/MotionControllerMap_2016-11-12-16-58-54.umap
+[2016.11.12-23.15.21:837][  0]SourceControl: Info 	Gryphon/Saved/Config/Windows/
+[2016.11.12-23.15.21:837][  0]SourceControl: Info 	Gryphon/Saved/Config/WorldState/1379276767.json
+[2016.11.12-23.15.21:837][  0]SourceControl: Info 	Gryphon/Saved/Logs/Gryphon-backup-2016.11.12-16.54.45.log
+[2016.11.12-23.15.21:837][  0]SourceControl: Info 	Gryphon/Saved/Logs/Gryphon-backup-2016.11.12-17.15.16.log
+[2016.11.12-23.15.21:837][  0]SourceControl: Info 	Gryphon/Saved/Logs/Gryphon.log
+[2016.11.12-23.15.21:837][  0]SourceControl: Info 	Gryphon/Saved/Logs/Gryphon_2.log
+[2016.11.12-23.15.21:837][  0]SourceControl: Info 	Gryphon/Saved/Logs/UE4CC-Windows-46D2469247C2B82BD7A051AC656ACEA8/
+[2016.11.12-23.15.21:837][  0]SourceControl: Info 	Gryphon/Saved/Logs/UE4CC-Windows-7B31B05B4815F3BC0CDA56929E9D36A3/
+[2016.11.12-23.15.21:837][  0]SourceControl: Info 	Gryphon/Saved/Logs/UE4CC-Windows-DE04E82A4F1CE2E100A157B9A5932759/
+[2016.11.12-23.15.21:837][  0]SourceControl: Info 	Gryphon/Saved/Logs/UE4CC-Windows-E8F023764C5FF15770FD79BC79A979CA/
+[2016.11.12-23.15.21:837][  0]SourceControl: Info no changes added to commit (use "git add" and/or "git commit -a")
+[2016.11.12-23.15.21:837][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.11.12-23.15.21:963][  0]LogRenderer: Reallocating scene render targets to support 1616x808 (Frame:2).
+[2016.11.12-23.15.22:007][  1]LogAssetRegistry: Asset discovery search completed in 2.5071 seconds
+[2016.11.12-23.15.22:007][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2016.11.12-23.15.22:007][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000015 seconds (updated 0 objects)
+[2016.11.12-23.22.13:142][ 65]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (MannequinHand_Right)
+[2016.11.12-23.22.18:232][656]Cmd: SELECT NONE
+[2016.11.12-23.22.22:378][108]Cmd: EDIT COPY
+[2016.11.12-23.22.24:959][408]Cmd: EDIT COPY
+[2016.11.12-23.22.31:360][963]Cmd: MAP LOAD FILE="../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.12-23.22.31:370][963]LightingResults: New page: Lighting Build
+[2016.11.12-23.22.31:370][963]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2016.11.12-23.22.31:373][963]MapCheck: New page: Map Check
+[2016.11.12-23.22.31:373][963]LightingResults: New page: Lighting Build
+[2016.11.12-23.22.31:857][963]LogAIModule: Creating AISystem for world MotionControllerMap
+[2016.11.12-23.22.31:872][963]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.11.12-23.22.31:899][963]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.12-23.22.31:936][963]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 36.585ms to complete.
+[2016.11.12-23.22.31:936][963]LogFileHelpers: Loading map 'MotionControllerMap' took 0.576
+[2016.11.12-23.22.32:730][ 55]Cmd: EDIT PASTE
+[2016.11.12-23.23.05:528][913]Cmd: ACTOR HIDE SELECTED
+[2016.11.12-23.23.06:171][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Horse_Unskinned)
+[2016.11.12-23.23.08:463][260]Cmd: DELETE
+[2016.11.12-23.23.08:463][260]Cmd: ACTOR DELETE
+[2016.11.12-23.23.08:463][260]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.11.12-23.23.08:477][260]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2016.11.12-23.23.08:877][308]Cmd: ACTOR UNHIDE SELECTED
+[2016.11.12-23.23.09:685][405]Cmd: ACTOR UNHIDE ALL
+[2016.11.12-23.23.12:015][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_Basic)
+[2016.11.12-23.23.16:336][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Horse_Unskinned2)
+[2016.11.12-23.23.20:266][648]Cmd: SELECT NONE
+[2016.11.12-23.23.22:231][841]LogSavePackage: Save=187.30ms
+[2016.11.12-23.23.22:231][841]LogSavePackage: Moving '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/MotionControllerMapA6D1B7904F1DE2E6F837B4B75664FA4B.tmp' to '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2016.11.12-23.23.22:235][841]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2016.11.12-23.23.22:250][841]LogFileHelpers: Saving map 'MotionControllerMap' took 0.254
+[2016.11.12-23.23.44:201][466]LogEditorFactories: Performing atomic reimport of [C:/Users/Winpro/Downloads/Horse_Hoof_/Horse_Hoof_L.FBX]
+[2016.11.12-23.23.44:219][466]LogFbx: Loading FBX Scene from C:/Users/Winpro/Downloads/Horse_Hoof_/Horse_Hoof_L.FBX
+[2016.11.12-23.23.44:224][466]LogFbx: FBX Scene Loaded Succesfully
+[2016.11.12-23.23.44:226][466]LogFbx:Warning: Warning Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing.
+[2016.11.12-23.23.44:227][466]LogFbx:Warning: Triangulating static mesh Hoof_L
+[2016.11.12-23.23.44:237][466]LogStaticMesh: Building static mesh Horse_Hoof_L...
+[2016.11.12-23.23.44:239][466]LogStaticMesh: Built static mesh [0.00s] /Game/HorseHoof/Game/Assets/BlueprintActors/Horse_Hoof_L.Horse_Hoof_L
+[2016.11.12-23.23.44:248][466]LogFbx:Warning: Warning Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX.
+[2016.11.12-23.23.44:248][466]LogEditorFactories: -- imported successfully
+[2016.11.12-23.24.22:418][106]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Winpro/Downloads/Horse_Hoof_L.FBX)
+[2016.11.12-23.24.22:422][106]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2016.11.12-23.24.22:422][106]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2016.11.12-23.24.22:422][106]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2016.11.12-23.24.22:422][106]LogFbx: ItemName: Model, ItemCount : 1
+[2016.11.12-23.24.22:422][106]LogFbx: ItemName: Geometry, ItemCount : 1
+[2016.11.12-23.24.22:422][106]LogFbx: ItemName: Material, ItemCount : 1
+[2016.11.12-23.24.22:422][106]LogFbx: ItemName: Texture, ItemCount : 1
+[2016.11.12-23.24.22:422][106]LogFbx: ItemName: CollectionExclusive, ItemCount : 2
+[2016.11.12-23.24.22:422][106]LogFbx: ItemName: Video, ItemCount : 1
+[2016.11.12-23.24.22:426][106]LogFbx: Loading FBX Scene from ../../../../../../Users/Winpro/Downloads/Horse_Hoof_L.FBX
+[2016.11.12-23.24.22:431][106]LogFbx: FBX Scene Loaded Succesfully
+[2016.11.12-23.24.23:973][106]LogFbx: Loading FBX Scene from ../../../../../../Users/Winpro/Downloads/Horse_Hoof_L.FBX
+[2016.11.12-23.24.23:978][106]LogFbx: FBX Scene Loaded Succesfully
+[2016.11.12-23.24.23:980][106]LogFbx:Warning: Triangulating static mesh Object002
+[2016.11.12-23.24.23:986][106]LogStaticMesh: Building static mesh Horse_Hoof_L...
+[2016.11.12-23.24.23:987][106]LogStaticMesh: Built static mesh [0.00s] /Game/HorseHoof/Game/Assets/BlueprintActors/Horse_Hoof_L.Horse_Hoof_L
+[2016.11.12-23.24.23:992][106]FBXImport:Warning: Warning Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2016.11.12-23.24.30:727][900]LogEditorViewport: Clicking on Actor (LMB): GrabbableHoof_C (GrabbableHoof)
+[2016.11.12-23.24.38:632][579]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'Horse_Hoof_L' or package '/Engine/Transient'.
+[2016.11.12-23.24.38:955][579]SourceControl: Info rm 'Gryphon/Content/HorseHoof/Game/Assets/BlueprintActors/Horse_Hoof_L.uasset'
+[2016.11.12-23.24.43:020][816]SourceControl:Error: Error error: pathspec 'C:/Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/Game/Assets/BlueprintActors/Horse_Hoof_L.uasset' did not match any file(s) known to git.
+[2016.11.12-23.24.50:009][228]SourceControl:Error: Error error: pathspec 'C:/Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/Game/Assets/BlueprintActors/Horse_Hoof_L.uasset' did not match any file(s) known to git.
+[2016.11.12-23.25.04:569][592]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Winpro/Downloads/Horse_Hoof_Left.FBX)
+[2016.11.12-23.25.04:572][592]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2016.11.12-23.25.04:572][592]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2016.11.12-23.25.04:572][592]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2016.11.12-23.25.04:572][592]LogFbx: ItemName: Model, ItemCount : 1
+[2016.11.12-23.25.04:572][592]LogFbx: ItemName: Geometry, ItemCount : 1
+[2016.11.12-23.25.04:572][592]LogFbx: ItemName: Material, ItemCount : 1
+[2016.11.12-23.25.04:572][592]LogFbx: ItemName: Texture, ItemCount : 1
+[2016.11.12-23.25.04:572][592]LogFbx: ItemName: CollectionExclusive, ItemCount : 2
+[2016.11.12-23.25.04:572][592]LogFbx: ItemName: Video, ItemCount : 1
+[2016.11.12-23.25.04:576][592]LogFbx: Loading FBX Scene from ../../../../../../Users/Winpro/Downloads/Horse_Hoof_Left.FBX
+[2016.11.12-23.25.04:580][592]LogFbx: FBX Scene Loaded Succesfully
+[2016.11.12-23.25.05:825][592]LogFbx: Loading FBX Scene from ../../../../../../Users/Winpro/Downloads/Horse_Hoof_Left.FBX
+[2016.11.12-23.25.05:830][592]LogFbx: FBX Scene Loaded Succesfully
+[2016.11.12-23.25.05:832][592]LogFbx:Warning: Triangulating static mesh Object002
+[2016.11.12-23.25.05:836][592]LogStaticMesh: Building static mesh Horse_Hoof_Left...
+[2016.11.12-23.25.05:838][592]LogStaticMesh: Built static mesh [0.00s] /Game/HorseHoof/Game/Assets/BlueprintActors/Horse_Hoof_Left.Horse_Hoof_Left
+[2016.11.12-23.25.05:842][592]FBXImport:Warning: Warning Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2016.11.12-23.25.19:331][179]LogSavePackage: Save=9.61ms
+[2016.11.12-23.25.19:331][179]LogSavePackage: Moving '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/Horse_Hoof_LeftE112D11D4BC16CFC63C96D84D9C360CA.tmp' to '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/Game/Assets/BlueprintActors/Horse_Hoof_Left.uasset'
+[2016.11.12-23.25.19:333][179]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/Game/Assets/BlueprintActors/Horse_Hoof_Left.uasset
+[2016.11.12-23.25.26:516][995]LogEditorViewport: Clicking on Actor (LMB): GrabbableHoof_C (GrabbableHoof)
+[2016.11.12-23.25.26:764][ 21]LogEditorViewport: Clicking on Actor (context menu): GrabbableHoof_C (GrabbableHoof)
+[2016.11.12-23.25.29:352][294]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 112 classes and 0 folders.
+[2016.11.12-23.25.38:521][165]BlueprintLog: New page: Compile GrabbableHoof
+[2016.11.12-23.25.38:527][165]LogBlueprint:Error: [Compiler GrabbableHoof] Error This blueprint (self) is not a PrimitiveComponent, therefore ' self ' must have a connection.
+[2016.11.12-23.25.38:527][165]LogBlueprint:Error: [Compiler GrabbableHoof] Error This blueprint (self) is not a PrimitiveComponent, therefore ' self ' must have a connection.
+[2016.11.12-23.25.38:527][165]LogBlueprint:Error: [Compiler GrabbableHoof] Error This blueprint (self) is not a PrimitiveComponent, therefore ' self ' must have a connection.
+[2016.11.12-23.25.38:527][165]LogBlueprint:Error: [Compiler GrabbableHoof] Error This blueprint (self) is not a PrimitiveComponent, therefore ' self ' must have a connection.
+[2016.11.12-23.25.38:786][165]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a PrimitiveComponent, therefore ' self ' must have a connection.
+[2016.11.12-23.25.38:786][165]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a PrimitiveComponent, therefore ' self ' must have a connection.
+[2016.11.12-23.25.38:786][165]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a PrimitiveComponent, therefore ' self ' must have a connection.
+[2016.11.12-23.25.38:786][165]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a PrimitiveComponent, therefore ' self ' must have a connection.
+[2016.11.12-23.25.38:787][165]LogBlueprint:Warning: [Compiler GrabbableHoof] Warning [0622.90] Compile of GrabbableHoof failed. 4 Fatal Issue(s) 0 Warning(s) [in 264 ms] (/Game/HorseHoof/GrabbableHoof.GrabbableHoof)
+[2016.11.12-23.25.56:842][974]BlueprintLog: New page: Compile GrabbableHoof
+[2016.11.12-23.25.59:109][203]Cmd: SELECT NONE
+[2016.11.12-23.25.59:550][256]LogEditorViewport: Clicking on Actor (LMB): GrabbableHoof_C (GrabbableHoof)
+[2016.11.12-23.26.04:894][877]LogEditorViewport: Clicking on Actor (LMB): GrabbableHoof_C (GrabbableHoof)
+[2016.11.12-23.26.08:902][355]LogEditorViewport: Clicking on Actor (LMB): GrabbableHoof_C (GrabbableHoof)
+[2016.11.12-23.26.10:181][507]Cmd: DELETE
+[2016.11.12-23.26.10:181][507]Cmd: ACTOR DELETE
+[2016.11.12-23.26.10:182][507]LogEditorActor: Deleted Actor: GrabbableHoof_C
+[2016.11.12-23.26.10:192][507]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2016.11.12-23.26.45:486][278]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2016.11.12-23.27.52:787][139]BlueprintLog: New page: Compile GrabbableHoof
+[2016.11.12-23.27.52:794][139]LogBlueprint:Error: [Compiler GrabbableHoof] Error This blueprint (self) is not a PrimitiveComponent, therefore ' self ' must have a connection.
+[2016.11.12-23.27.52:794][139]LogBlueprint:Error: [Compiler GrabbableHoof] Error This blueprint (self) is not a PrimitiveComponent, therefore ' self ' must have a connection.
+[2016.11.12-23.27.52:794][139]LogBlueprint:Error: [Compiler GrabbableHoof] Error This blueprint (self) is not a PrimitiveComponent, therefore ' self ' must have a connection.
+[2016.11.12-23.27.52:794][139]LogBlueprint:Error: [Compiler GrabbableHoof] Error This blueprint (self) is not a PrimitiveComponent, therefore ' self ' must have a connection.
+[2016.11.12-23.27.52:915][139]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a PrimitiveComponent, therefore ' self ' must have a connection.
+[2016.11.12-23.27.52:915][139]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a PrimitiveComponent, therefore ' self ' must have a connection.
+[2016.11.12-23.27.52:915][139]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a PrimitiveComponent, therefore ' self ' must have a connection.
+[2016.11.12-23.27.52:915][139]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a PrimitiveComponent, therefore ' self ' must have a connection.
+[2016.11.12-23.27.52:915][139]LogBlueprint:Warning: [Compiler GrabbableHoof] Warning [0757.03] Compile of GrabbableHoof failed. 4 Fatal Issue(s) 0 Warning(s) [in 127 ms] (/Game/HorseHoof/GrabbableHoof.GrabbableHoof)
+[2016.11.12-23.33.22:904][ 18]LogSavePackage: Save=211.97ms
+[2016.11.12-23.33.22:904][ 18]LogSavePackage: Moving '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/MotionControllerMap_Auto1227026864E1CA6DEE62004B7ED3BFAE8.tmp' to '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto1.umap'
+[2016.11.12-23.33.22:905][ 18]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto1.umap
+[2016.11.12-23.33.22:908][ 18]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.239
+[2016.11.12-23.33.22:908][ 18]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.239
+[2016.11.12-23.33.22:910][ 18]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HorseHoof/GrabbableHoof] ([1] browsable assets)...
+[2016.11.12-23.33.22:920][ 18]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/HorseHoof/GrabbableHoof.GrabbableHoof]
+[2016.11.12-23.33.22:920][ 18]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorseHoof/GrabbableHoof]
+[2016.11.12-23.33.22:941][ 18]LogSavePackage: Save=16.54ms
+[2016.11.12-23.33.22:941][ 18]LogSavePackage: Moving '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/GrabbableHoof_Auto1DFA30011482FF75F075802B4E717AD1D.tmp' to '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/Autosaves/Game/HorseHoof/GrabbableHoof_Auto1.uasset'
+[2016.11.12-23.33.22:942][ 18]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/Autosaves/Game/HorseHoof/GrabbableHoof_Auto1.uasset
+[2016.11.12-23.33.22:943][ 18]LogFileHelpers: Auto-saving content packages took 0.033
+[2016.11.12-23.36.05:187][211]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'Horse_Hoof_Left_GEN_VARIABLE' or package '/Engine/Transient'.
+[2016.11.12-23.36.05:187][211]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'Horse_Hoof_Left' or package '/Engine/Transient'.
+[2016.11.12-23.36.05:187][211]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'StaticMeshComponent_15' or package '/Engine/Transient'.
+[2016.11.12-23.36.05:466][211]SourceControl:Error: Error error: pathspec 'C:/Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/Game/Assets/BlueprintActors/Horse_Hoof_Left.uasset' did not match any file(s) known to git.
+[2016.11.12-23.36.07:089][393]Cmd: SELECT NONE
+[2016.11.12-23.36.13:580][848]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Winpro/Downloads/Hoof_L.FBX)
+[2016.11.12-23.36.13:584][848]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2016.11.12-23.36.13:584][848]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2016.11.12-23.36.13:584][848]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2016.11.12-23.36.13:584][848]LogFbx: ItemName: Model, ItemCount : 1
+[2016.11.12-23.36.13:584][848]LogFbx: ItemName: Geometry, ItemCount : 1
+[2016.11.12-23.36.13:584][848]LogFbx: ItemName: Material, ItemCount : 1
+[2016.11.12-23.36.13:584][848]LogFbx: ItemName: Texture, ItemCount : 1
+[2016.11.12-23.36.13:584][848]LogFbx: ItemName: CollectionExclusive, ItemCount : 1
+[2016.11.12-23.36.13:584][848]LogFbx: ItemName: Video, ItemCount : 1
+[2016.11.12-23.36.13:588][848]LogFbx: Loading FBX Scene from ../../../../../../Users/Winpro/Downloads/Hoof_L.FBX
+[2016.11.12-23.36.13:592][848]LogFbx: FBX Scene Loaded Succesfully
+[2016.11.12-23.36.19:131][848]LogFbx: Loading FBX Scene from ../../../../../../Users/Winpro/Downloads/Hoof_L.FBX
+[2016.11.12-23.36.19:136][848]LogFbx: FBX Scene Loaded Succesfully
+[2016.11.12-23.36.19:139][848]LogFbx:Warning: Triangulating static mesh Hoof_L
+[2016.11.12-23.36.19:143][848]LogStaticMesh: Building static mesh Hoof_L...
+[2016.11.12-23.36.19:145][848]LogStaticMesh: Built static mesh [0.00s] /Game/HorseHoof/Game/Assets/BlueprintActors/Hoof_L.Hoof_L
+[2016.11.12-23.36.19:150][848]FBXImport:Warning: Warning Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2016.11.12-23.36.30:240][164]LogSavePackage: Save=9.80ms
+[2016.11.12-23.36.30:240][164]LogSavePackage: Moving '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/Hoof_LC205C4C24CBF5BE1D07E9E91D8541AF8.tmp' to '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/Game/Assets/BlueprintActors/Hoof_L.uasset'
+[2016.11.12-23.36.30:241][164]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/Game/Assets/BlueprintActors/Hoof_L.uasset
+[2016.11.12-23.36.39:528][160]LogSavePackage: Save=204.04ms
+[2016.11.12-23.36.39:528][160]LogSavePackage: Moving '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/MotionControllerMapA9730B2A444CAE79036C2D87A5D2AE59.tmp' to '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2016.11.12-23.36.39:532][160]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2016.11.12-23.36.39:548][160]LogFileHelpers: Saving map 'MotionControllerMap' took 0.275
+[2016.11.12-23.36.39:549][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HorseHoof/GrabbableHoof" FILE="../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/GrabbableHoof.uasset" SILENT=true
+[2016.11.12-23.36.39:560][160]LogSavePackage: Save=9.33ms
+[2016.11.12-23.36.39:560][160]LogSavePackage: Moving '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/GrabbableHoof89E3D1024DAADC755362F6A3041F4C42.tmp' to '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/GrabbableHoof.uasset'
+[2016.11.12-23.36.39:562][160]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/GrabbableHoof.uasset
+[2016.11.12-23.36.56:271][  5]LogSavePackage: Save=203.27ms
+[2016.11.12-23.36.56:271][  5]LogSavePackage: Moving '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/MotionControllerMap0EA8AE77451EB1197D3EEEAA86F177CB.tmp' to '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2016.11.12-23.36.56:273][  5]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2016.11.12-23.36.56:288][  5]LogFileHelpers: Saving map 'MotionControllerMap' took 0.271
+[2016.11.12-23.36.56:298][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HorseHoof/GrabbableHoof" FILE="../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/GrabbableHoof.uasset" SILENT=true
+[2016.11.12-23.36.56:316][  5]LogSavePackage: Save=16.55ms
+[2016.11.12-23.36.56:316][  5]LogSavePackage: Moving '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/GrabbableHoofC6815CA344E2DFE1B8DD889143EC566E.tmp' to '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/GrabbableHoof.uasset'
+[2016.11.12-23.36.56:319][  5]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/GrabbableHoof.uasset
+[2016.11.12-23.36.56:754][ 54]BlueprintLog: New page: Compile GrabbableHoof
+[2016.11.12-23.36.56:760][ 54]LogBlueprint:Error: [Compiler GrabbableHoof] Error This blueprint (self) is not a PrimitiveComponent, therefore ' self ' must have a connection.
+[2016.11.12-23.36.56:760][ 54]LogBlueprint:Error: [Compiler GrabbableHoof] Error This blueprint (self) is not a PrimitiveComponent, therefore ' self ' must have a connection.
+[2016.11.12-23.36.56:760][ 54]LogBlueprint:Error: [Compiler GrabbableHoof] Error This blueprint (self) is not a PrimitiveComponent, therefore ' self ' must have a connection.
+[2016.11.12-23.36.56:760][ 54]LogBlueprint:Error: [Compiler GrabbableHoof] Error This blueprint (self) is not a PrimitiveComponent, therefore ' self ' must have a connection.
+[2016.11.12-23.36.56:993][ 54]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a PrimitiveComponent, therefore ' self ' must have a connection.
+[2016.11.12-23.36.56:993][ 54]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a PrimitiveComponent, therefore ' self ' must have a connection.
+[2016.11.12-23.36.56:993][ 54]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a PrimitiveComponent, therefore ' self ' must have a connection.
+[2016.11.12-23.36.56:993][ 54]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a PrimitiveComponent, therefore ' self ' must have a connection.
+[2016.11.12-23.36.56:993][ 54]LogBlueprint:Warning: [Compiler GrabbableHoof] Warning [1301.11] Compile of GrabbableHoof failed. 4 Fatal Issue(s) 0 Warning(s) [in 238 ms] (/Game/HorseHoof/GrabbableHoof.GrabbableHoof)
+[2016.11.12-23.37.24:348][214]BlueprintLog: New page: Compile GrabbableHoof
+[2016.11.12-23.37.25:961][356]LogSavePackage: Save=203.82ms
+[2016.11.12-23.37.25:961][356]LogSavePackage: Moving '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/MotionControllerMap181732074289D632DFB54BA85A1C756D.tmp' to '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2016.11.12-23.37.25:963][356]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2016.11.12-23.37.25:978][356]LogFileHelpers: Saving map 'MotionControllerMap' took 0.273
+[2016.11.12-23.37.25:990][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HorseHoof/GrabbableHoof" FILE="../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/GrabbableHoof.uasset" SILENT=true
+[2016.11.12-23.37.26:009][356]LogSavePackage: Save=17.94ms
+[2016.11.12-23.37.26:009][356]LogSavePackage: Moving '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/GrabbableHoof66FBC61B472F1A52A461B79D4FC220EC.tmp' to '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/GrabbableHoof.uasset'
+[2016.11.12-23.37.26:011][356]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/GrabbableHoof.uasset
+[2016.11.12-23.37.27:578][535]LogEditorViewport: Clicking on Actor (LMB): GrabbableHoof_C (GrabbableHoof)
+[2016.11.12-23.38.00:971][430]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.11.12-23.38.00:971][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-23.38.00:972][430]PIE: New page: PIE session: MotionControllerMap (Nov 12, 2016, 11:38:00 AM)
+[2016.11.12-23.38.00:972][430]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2016.11.12-23.38.00:979][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007706s)
+[2016.11.12-23.38.00:980][430]LogAIModule: Creating AISystem for world MotionControllerMap
+[2016.11.12-23.38.00:980][430]LogPlayLevel: PIE: World Init took: (0.000611s)
+[2016.11.12-23.38.00:980][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.008542s)
+[2016.11.12-23.38.01:002][430]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.12-23.38.01:010][430]LogInit: FAudioDevice initialized.
+[2016.11.12-23.38.01:094][430]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.11.12-23.38.01:094][430]LogWorld: Game class is 'GameMode'
+[2016.11.12-23.38.01:099][430]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2016.11.12-17.38.01
+[2016.11.12-23.38.01:100][430]LogWorld: Bringing up level for play took: 0.003944
+[2016.11.12-23.38.01:103][430]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2016.11.12-23.38.01:103][430]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-23.38.01:103][430]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-23.38.01:103][430]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-23.38.01:105][430]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-23.38.01:109][430]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.889
+[2016.11.12-23.38.01:109][430]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.11.12-23.38.01:156][431]LogRenderer: Reallocating scene render targets to support 3024x1680 (Frame:59639).
+[2016.11.12-23.38.31:886][179]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.11.12-23.38.31:993][179]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.11.12-23.38.34:145][432]LogEditorViewport: Clicking on Actor (LMB): GrabbableHoof_C (GrabbableHoof)
+[2016.11.12-23.38.41:345][289]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.11.12-23.38.41:345][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-23.38.41:346][289]PIE: New page: PIE session: MotionControllerMap (Nov 12, 2016, 11:38:41 AM)
+[2016.11.12-23.38.41:346][289]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2016.11.12-23.38.41:353][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007811s)
+[2016.11.12-23.38.41:354][289]LogAIModule: Creating AISystem for world MotionControllerMap
+[2016.11.12-23.38.41:354][289]LogPlayLevel: PIE: World Init took: (0.000585s)
+[2016.11.12-23.38.41:354][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.008574s)
+[2016.11.12-23.38.41:374][289]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.12-23.38.41:381][289]LogInit: FAudioDevice initialized.
+[2016.11.12-23.38.41:457][289]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.11.12-23.38.41:457][289]LogWorld: Game class is 'GameMode'
+[2016.11.12-23.38.41:462][289]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2016.11.12-17.38.41
+[2016.11.12-23.38.41:463][289]LogWorld: Bringing up level for play took: 0.004484
+[2016.11.12-23.38.41:463][289]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-23.38.41:463][289]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-23.38.41:463][289]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-23.38.41:465][289]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-23.38.41:469][289]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.751
+[2016.11.12-23.38.41:469][289]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.11.12-23.39.27:969][450]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.11.12-23.39.28:076][450]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.11.12-23.42.14:475][504]LogEditorFactories: Performing atomic reimport of [C:/Users/Winpro/Downloads/Hoof_L.FBX]
+[2016.11.12-23.42.14:488][504]LogFbx: Loading FBX Scene from C:/Users/Winpro/Downloads/Hoof_L.FBX
+[2016.11.12-23.42.14:493][504]LogFbx: FBX Scene Loaded Succesfully
+[2016.11.12-23.42.14:495][504]LogFbx:Warning: Warning Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing.
+[2016.11.12-23.42.14:495][504]LogFbx:Warning: Triangulating static mesh Hoof_L
+[2016.11.12-23.42.14:504][504]LogStaticMesh: Building static mesh Hoof_L...
+[2016.11.12-23.42.14:506][504]LogStaticMesh: Built static mesh [0.00s] /Game/HorseHoof/Game/Assets/BlueprintActors/Hoof_L.Hoof_L
+[2016.11.12-23.42.14:513][504]LogEditorFactories: -- imported successfully
+[2016.11.12-23.42.15:930][672]LogEditorViewport: Clicking on Actor (LMB): GrabbableHoof_C (GrabbableHoof)
+[2016.11.12-23.42.18:047][915]Cmd: SELECT NONE
+[2016.11.12-23.42.19:602][ 54]LogSavePackage: Save=210.71ms
+[2016.11.12-23.42.19:602][ 54]LogSavePackage: Moving '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/MotionControllerMap3F48AD174A3CA0F4DFFC3E88B157D4F5.tmp' to '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2016.11.12-23.42.19:605][ 54]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2016.11.12-23.42.19:627][ 54]LogFileHelpers: Saving map 'MotionControllerMap' took 0.292
+[2016.11.12-23.42.19:654][ 54]LogSavePackage: Save=9.76ms
+[2016.11.12-23.42.19:654][ 54]LogSavePackage: Moving '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/Hoof_LB8891C6842A122EB88F12893F66D18FB.tmp' to '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/Game/Assets/BlueprintActors/Hoof_L.uasset'
+[2016.11.12-23.42.19:656][ 54]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/Game/Assets/BlueprintActors/Hoof_L.uasset
+[2016.11.12-23.42.20:018][ 95]LogEditorViewport: Clicking on Actor (LMB): GrabbableHoof_C (GrabbableHoof)
+[2016.11.12-23.42.26:857][826]LogSavePackage: Save=203.87ms
+[2016.11.12-23.42.26:857][826]LogSavePackage: Moving '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/MotionControllerMap983312AD4B208CA6AF590EB3AE2F27D1.tmp' to '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2016.11.12-23.42.26:860][826]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2016.11.12-23.42.26:876][826]LogFileHelpers: Saving map 'MotionControllerMap' took 0.274
+[2016.11.12-23.42.48:270][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HorseHoof/StaticHoofToGrab" FILE="../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/StaticHoofToGrab.uasset" SILENT=true
+[2016.11.12-23.42.48:279][123]LogSavePackage: Save=7.07ms
+[2016.11.12-23.42.48:279][123]LogSavePackage: Moving '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/StaticHoofToGrabEEB0173743F7D38B84F5749FC36BAAD1.tmp' to '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/StaticHoofToGrab.uasset'
+[2016.11.12-23.42.48:280][123]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/StaticHoofToGrab.uasset
+[2016.11.12-23.43.13:796][754]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.11.12-23.43.18:888][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HorseHoof/StaticHoofToGrab" FILE="../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/StaticHoofToGrab.uasset" SILENT=true
+[2016.11.12-23.43.18:906][330]LogSavePackage: Save=13.55ms
+[2016.11.12-23.43.18:906][330]LogSavePackage: Moving '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/StaticHoofToGrabDCD52A4B4E8E93BC177C3B9D1901D019.tmp' to '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/StaticHoofToGrab.uasset'
+[2016.11.12-23.43.18:909][330]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/StaticHoofToGrab.uasset
+[2016.11.12-23.43.38:781][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HorseHoof/StaticHoofToGrab" FILE="../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/StaticHoofToGrab.uasset" SILENT=true
+[2016.11.12-23.43.38:797][467]LogSavePackage: Save=13.41ms
+[2016.11.12-23.43.38:797][467]LogSavePackage: Moving '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/StaticHoofToGrab9B6FD4544F858B9D0AF7078C71ECA691.tmp' to '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/StaticHoofToGrab.uasset'
+[2016.11.12-23.43.38:799][467]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/StaticHoofToGrab.uasset
+[2016.11.12-23.44.03:914][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HorseHoof/StaticHoofToGrab" FILE="../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/StaticHoofToGrab.uasset" SILENT=true
+[2016.11.12-23.44.03:929][166]LogSavePackage: Save=13.88ms
+[2016.11.12-23.44.03:929][166]LogSavePackage: Moving '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/StaticHoofToGrab5EF3EBB447522A6BB832DAB78B6D8C76.tmp' to '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/StaticHoofToGrab.uasset'
+[2016.11.12-23.44.03:932][166]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/StaticHoofToGrab.uasset
+[2016.11.12-23.44.04:316][210]BlueprintLog: New page: Compile StaticHoofToGrab
+[2016.11.12-23.44.07:323][521]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.11.12-23.44.49:859][418]LogSavePackage: Save=212.62ms
+[2016.11.12-23.44.49:859][418]LogSavePackage: Moving '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/MotionControllerMapB8F7E7664CCDC64809077DAE74FC06F6.tmp' to '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2016.11.12-23.44.49:861][418]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2016.11.12-23.44.49:876][418]LogFileHelpers: Saving map 'MotionControllerMap' took 0.281
+[2016.11.12-23.44.53:277][823]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.11.12-23.44.53:277][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-23.44.53:277][823]PIE: New page: PIE session: MotionControllerMap (Nov 12, 2016, 11:44:53 AM)
+[2016.11.12-23.44.53:277][823]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2016.11.12-23.44.53:285][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007902s)
+[2016.11.12-23.44.53:285][823]LogAIModule: Creating AISystem for world MotionControllerMap
+[2016.11.12-23.44.53:285][823]LogPlayLevel: PIE: World Init took: (0.000551s)
+[2016.11.12-23.44.53:286][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.008645s)
+[2016.11.12-23.44.53:308][823]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.12-23.44.53:316][823]LogInit: FAudioDevice initialized.
+[2016.11.12-23.44.53:389][823]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.11.12-23.44.53:389][823]LogWorld: Game class is 'GameMode'
+[2016.11.12-23.44.53:394][823]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2016.11.12-17.44.53
+[2016.11.12-23.44.53:395][823]LogWorld: Bringing up level for play took: 0.004535
+[2016.11.12-23.44.53:395][823]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-23.44.53:395][823]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-23.44.53:395][823]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-23.44.53:397][823]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-23.44.53:401][823]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.819
+[2016.11.12-23.44.53:402][823]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.11.12-23.45.58:263][627]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.11.12-23.45.58:371][627]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.11.12-23.46.27:876][853]LogBlueprint:Warning: [Compiler ] Warning Pasted node  K2Node_Event_19   conflicted with  K2Node_Event_16  and was replaced as a Custom Event!
+[2016.11.12-23.46.27:876][853]LogBlueprint:Warning: [Compiler ] Warning Pasted node  K2Node_Event_33   conflicted with  K2Node_Event_17  and was replaced as a Custom Event!
+[2016.11.12-23.46.27:885][853]BlueprintEditorCompileResults:Warning: Warning Pasted node  K2Node_Event_19   conflicted with  K2Node_Event_16  and was replaced as a Custom Event!
+[2016.11.12-23.46.27:885][853]BlueprintEditorCompileResults:Warning: Warning Pasted node  K2Node_Event_33   conflicted with  K2Node_Event_17  and was replaced as a Custom Event!
+[2016.11.12-23.47.07:140][954]LogSavePackage: Save=208.35ms
+[2016.11.12-23.47.07:140][954]LogSavePackage: Moving '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/MotionControllerMapF15FB013460ED0E8B4CF6BA3AA588787.tmp' to '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2016.11.12-23.47.07:143][954]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2016.11.12-23.47.07:158][954]LogFileHelpers: Saving map 'MotionControllerMap' took 0.281
+[2016.11.12-23.47.07:168][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HorseHoof/GrabbableHoof" FILE="../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/GrabbableHoof.uasset" SILENT=true
+[2016.11.12-23.47.07:190][954]LogSavePackage: Save=17.73ms
+[2016.11.12-23.47.07:190][954]LogSavePackage: Moving '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/GrabbableHoof0009AB7A43A210BE93A66C8B6FF7B120.tmp' to '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/GrabbableHoof.uasset'
+[2016.11.12-23.47.07:193][954]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/GrabbableHoof.uasset
+[2016.11.12-23.47.07:205][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HorseHoof/StaticHoofToGrab" FILE="../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/StaticHoofToGrab.uasset" SILENT=true
+[2016.11.12-23.47.07:225][954]LogSavePackage: Save=18.14ms
+[2016.11.12-23.47.07:225][954]LogSavePackage: Moving '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/StaticHoofToGrab9175540B49DD3B7F9FEA41898BE901AE.tmp' to '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/StaticHoofToGrab.uasset'
+[2016.11.12-23.47.07:227][954]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/HorseHoof/StaticHoofToGrab.uasset
+[2016.11.12-23.47.07:549][985]BlueprintLog: New page: Compile StaticHoofToGrab
+[2016.11.12-23.47.10:627][304]LogEditorViewport: Clicking on Actor (LMB): StaticHoofToGrab_C (StaticHoofToGrab)
+[2016.11.12-23.47.12:784][560]LogEditorViewport: Clicking on Actor (LMB): GrabbableHoof_C (GrabbableHoof)
+[2016.11.12-23.47.17:031][  8]LogSavePackage: Save=208.51ms
+[2016.11.12-23.47.17:031][  8]LogSavePackage: Moving '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/MotionControllerMapF117D7C045FA3DBA91911CB863362C9B.tmp' to '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2016.11.12-23.47.17:034][  8]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2016.11.12-23.47.17:050][  8]LogFileHelpers: Saving map 'MotionControllerMap' took 0.279
+[2016.11.12-23.47.17:426][ 52]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.11.12-23.47.17:426][ 52]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.11.12-23.47.17:426][ 52]LogPlayLevel: [PlayLevel] Compiling GrabbableHoof before play...
+[2016.11.12-23.47.17:495][ 52]LogPlayLevel: PlayLevel: Blueprint regeneration took 68 ms (1 blueprints)
+[2016.11.12-23.47.17:495][ 52]PIE: New page: PIE session: MotionControllerMap (Nov 12, 2016, 11:47:17 AM)
+[2016.11.12-23.47.17:495][ 52]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2016.11.12-23.47.17:502][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007563s)
+[2016.11.12-23.47.17:503][ 52]LogAIModule: Creating AISystem for world MotionControllerMap
+[2016.11.12-23.47.17:503][ 52]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2016.11.12-23.47.17:503][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.008345s)
+[2016.11.12-23.47.17:525][ 52]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.12-23.47.17:533][ 52]LogInit: FAudioDevice initialized.
+[2016.11.12-23.47.17:607][ 52]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.11.12-23.47.17:607][ 52]LogWorld: Game class is 'GameMode'
+[2016.11.12-23.47.17:613][ 52]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2016.11.12-17.47.17
+[2016.11.12-23.47.17:613][ 52]LogWorld: Bringing up level for play took: 0.005455
+[2016.11.12-23.47.17:614][ 52]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-23.47.17:614][ 52]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-23.47.17:614][ 52]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-23.47.17:615][ 52]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-23.47.17:620][ 52]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.6
+[2016.11.12-23.47.17:620][ 52]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.11.12-23.47.50:061][955]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.11.12-23.47.50:170][955]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.11.12-23.47.53:531][261]LogSavePackage: Save=208.09ms
+[2016.11.12-23.47.53:531][261]LogSavePackage: Moving '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/MotionControllerMap785686094DC4ED6C4074CA8E6E1C2C8D.tmp' to '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2016.11.12-23.47.53:533][261]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2016.11.12-23.47.53:549][261]LogFileHelpers: Saving map 'MotionControllerMap' took 0.285
+[2016.11.12-23.47.58:238][714]LogEditorViewport: Clicking on Actor (LMB): StaticHoofToGrab_C (StaticHoofToGrab)
+[2016.11.12-23.48.00:169][891]LogSavePackage: Save=203.26ms
+[2016.11.12-23.48.00:169][891]LogSavePackage: Moving '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/MotionControllerMapE499E2214D733FAB192243B9805E1817.tmp' to '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2016.11.12-23.48.00:171][891]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2016.11.12-23.48.00:186][891]LogFileHelpers: Saving map 'MotionControllerMap' took 0.272
+[2016.11.12-23.48.02:366][148]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.11.12-23.48.02:366][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-23.48.02:366][148]PIE: New page: PIE session: MotionControllerMap (Nov 12, 2016, 11:48:02 AM)
+[2016.11.12-23.48.02:366][148]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2016.11.12-23.48.02:374][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007490s)
+[2016.11.12-23.48.02:374][148]LogAIModule: Creating AISystem for world MotionControllerMap
+[2016.11.12-23.48.02:374][148]LogPlayLevel: PIE: World Init took: (0.000590s)
+[2016.11.12-23.48.02:375][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.008265s)
+[2016.11.12-23.48.02:395][148]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.12-23.48.02:402][148]LogInit: FAudioDevice initialized.
+[2016.11.12-23.48.02:480][148]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.11.12-23.48.02:480][148]LogWorld: Game class is 'GameMode'
+[2016.11.12-23.48.02:485][148]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2016.11.12-17.48.02
+[2016.11.12-23.48.02:485][148]LogWorld: Bringing up level for play took: 0.004312
+[2016.11.12-23.48.02:485][148]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-23.48.02:485][148]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-23.48.02:485][148]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-23.48.02:487][148]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-23.48.02:491][148]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.271
+[2016.11.12-23.48.02:491][148]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.11.12-23.48.22:800][964]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.11.12-23.48.22:907][964]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.11.12-23.48.27:428][483]LogEditorViewport: Clicking on Actor (LMB): StaticHoofToGrab_C (StaticHoofToGrab)
+[2016.11.12-23.48.41:313][ 73]LogEditorViewport: Clicking on Actor (context menu): StaticHoofToGrab_C (StaticHoofToGrab)
+[2016.11.12-23.49.16:554][454]LogSavePackage: Save=207.35ms
+[2016.11.12-23.49.16:554][454]LogSavePackage: Moving '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/MotionControllerMap69C43D6340D78C5EFB32AFB4502E03B9.tmp' to '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2016.11.12-23.49.16:556][454]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2016.11.12-23.49.16:578][454]LogFileHelpers: Saving map 'MotionControllerMap' took 0.284
+[2016.11.12-23.49.25:958][538]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.11.12-23.49.25:958][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.12-23.49.25:958][538]PIE: New page: PIE session: MotionControllerMap (Nov 12, 2016, 11:49:25 AM)
+[2016.11.12-23.49.25:958][538]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2016.11.12-23.49.25:966][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007984s)
+[2016.11.12-23.49.25:967][538]LogAIModule: Creating AISystem for world MotionControllerMap
+[2016.11.12-23.49.25:967][538]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2016.11.12-23.49.25:967][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.008864s)
+[2016.11.12-23.49.25:987][538]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.12-23.49.25:995][538]LogInit: FAudioDevice initialized.
+[2016.11.12-23.49.26:067][538]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.11.12-23.49.26:068][538]LogWorld: Game class is 'GameMode'
+[2016.11.12-23.49.26:072][538]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2016.11.12-17.49.26
+[2016.11.12-23.49.26:072][538]LogWorld: Bringing up level for play took: 0.004291
+[2016.11.12-23.49.26:073][538]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-23.49.26:073][538]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.12-23.49.26:073][538]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-23.49.26:075][538]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.12-23.49.26:080][538]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.14
+[2016.11.12-23.49.26:081][538]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.11.12-23.49.45:791][301]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.11.12-23.49.45:898][301]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2016.11.12-23.49.51:887][995]LogEditorViewport: Clicking on Actor (LMB): GrabbableHoof_C (GrabbableHoof)
+[2016.11.12-23.49.57:792][673]Cmd: QUIT_EDITOR
+[2016.11.12-23.49.57:945][673]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.12-23.49.57:964][673]LogExit: Preparing to exit.
+[2016.11.12-23.49.59:034][673]LogDirectoryWatcher: A directory notification for 'C:/Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/' was aborted.
+[2016.11.12-23.49.59:065][673]LogExit: Editor shut down
+[2016.11.12-23.49.59:066][673]LogExit: Transaction tracking system shut down
+[2016.11.12-23.49.59:223][673]LogObj: Freed 0b from 0 cluster array pools.
+[2016.11.12-23.49.59:223][673]LogExit: Object subsystem successfully closed.
+[2016.11.12-23.49.59:237][673]LogD3D11RHI: Shutdown
+[2016.11.12-23.49.59:237][673]LogD3D11RHI: CleanupD3DDevice
+[2016.11.12-23.49.59:239][673]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.11.12-23.49.59:248][673]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (238)
+[2016.11.12-23.49.59:248][673]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (237)
+[2016.11.12-23.49.59:248][673]LogModuleManager: Shutting down and abandoning module BlueprintGraph (236)
+[2016.11.12-23.49.59:248][673]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (235)
+[2016.11.12-23.49.59:249][673]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (234)
+[2016.11.12-23.49.59:249][673]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (233)
+[2016.11.12-23.49.59:249][673]LogModuleManager: Shutting down and abandoning module CrashTracker (232)
+[2016.11.12-23.49.59:249][673]LogModuleManager: Shutting down and abandoning module SceneOutliner (231)
+[2016.11.12-23.49.59:249][673]LogModuleManager: Shutting down and abandoning module WidgetCarousel (230)
+[2016.11.12-23.49.59:249][673]LogModuleManager: Shutting down and abandoning module AddContentDialog (229)
+[2016.11.12-23.49.59:249][673]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.13/FeaturePacks/' was aborted.
+[2016.11.12-23.49.59:251][673]LogModuleManager: Shutting down and abandoning module GameplayTags (228)
+[2016.11.12-23.49.59:251][673]LogModuleManager: Shutting down and abandoning module EditorWidgets (227)
+[2016.11.12-23.49.59:251][673]LogModuleManager: Shutting down and abandoning module CollectionManager (226)
+[2016.11.12-23.49.59:251][673]LogDirectoryWatcher: A directory notification for 'C:/Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/Collections/' was aborted.
+[2016.11.12-23.49.59:251][673]LogDirectoryWatcher: A directory notification for 'C:/Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/Developers/Winpro/Collections/' was aborted.
+[2016.11.12-23.49.59:251][673]LogDirectoryWatcher: A directory notification for 'C:/Users/Winpro/Documents/GitHub/gryphons/Gryphon/Saved/Collections/' was aborted.
+[2016.11.12-23.49.59:251][673]LogModuleManager: Shutting down and abandoning module StatsViewer (225)
+[2016.11.12-23.49.59:251][673]LogModuleManager: Shutting down and abandoning module FoliageEdit (224)
+[2016.11.12-23.49.59:251][673]LogModuleManager: Shutting down and abandoning module LandscapeEditor (223)
+[2016.11.12-23.49.59:251][673]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (222)
+[2016.11.12-23.49.59:251][673]LogModuleManager: Shutting down and abandoning module ActorPickerMode (221)
+[2016.11.12-23.49.59:251][673]LogModuleManager: Shutting down and abandoning module GeometryMode (220)
+[2016.11.12-23.49.59:251][673]LogModuleManager: Shutting down and abandoning module TextureAlignMode (219)
+[2016.11.12-23.49.59:251][673]LogModuleManager: Shutting down and abandoning module BspMode (218)
+[2016.11.12-23.49.59:251][673]LogModuleManager: Shutting down and abandoning module HardwareSurvey (217)
+[2016.11.12-23.49.59:251][673]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (216)
+[2016.11.12-23.49.59:251][673]LogModuleManager: Shutting down and abandoning module SequenceRecorder (215)
+[2016.11.12-23.49.59:251][673]LogModuleManager: Shutting down and abandoning module AutomationWorker (214)
+[2016.11.12-23.49.59:251][673]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (213)
+[2016.11.12-23.49.59:252][673]LogModuleManager: Shutting down and abandoning module PlacementMode (212)
+[2016.11.12-23.49.59:252][673]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (211)
+[2016.11.12-23.49.59:252][673]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (210)
+[2016.11.12-23.49.59:252][673]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (209)
+[2016.11.12-23.49.59:252][673]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (208)
+[2016.11.12-23.49.59:252][673]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (207)
+[2016.11.12-23.49.59:252][673]LogModuleManager: Shutting down and abandoning module Media (206)
+[2016.11.12-23.49.59:252][673]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (205)
+[2016.11.12-23.49.59:252][673]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (204)
+[2016.11.12-23.49.59:252][673]LogModuleManager: Shutting down and abandoning module CharacterAI (203)
+[2016.11.12-23.49.59:252][673]LogModuleManager: Shutting down and abandoning module SmartSnapping (202)
+[2016.11.12-23.49.59:252][673]LogModuleManager: Shutting down and abandoning module SessionServices (201)
+[2016.11.12-23.49.59:252][673]LogModuleManager: Shutting down and abandoning module ViewportSnapping (200)
+[2016.11.12-23.49.59:252][673]LogModuleManager: Shutting down and abandoning module ViewportInteraction (199)
+[2016.11.12-23.49.59:252][673]LogModuleManager: Shutting down and abandoning module LogVisualizer (198)
+[2016.11.12-23.49.59:252][673]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (197)
+[2016.11.12-23.49.59:252][673]LogModuleManager: Shutting down and abandoning module IntroTutorials (196)
+[2016.11.12-23.49.59:252][673]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (195)
+[2016.11.12-23.49.59:252][673]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (194)
+[2016.11.12-23.49.59:252][673]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (193)
+[2016.11.12-23.49.59:252][673]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (192)
+[2016.11.12-23.50.00:021][673]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (191)
+[2016.11.12-23.50.00:021][673]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (190)
+[2016.11.12-23.50.00:021][673]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (189)
+[2016.11.12-23.50.00:021][673]LogModuleManager: Shutting down and abandoning module NiagaraEditor (188)
+[2016.11.12-23.50.00:021][673]LogModuleManager: Shutting down and abandoning module MergeActors (187)
+[2016.11.12-23.50.00:021][673]LogModuleManager: Shutting down and abandoning module SizeMap (186)
+[2016.11.12-23.50.00:021][673]LogModuleManager: Shutting down and abandoning module TreeMap (185)
+[2016.11.12-23.50.00:021][673]LogModuleManager: Shutting down and abandoning module ReferenceViewer (184)
+[2016.11.12-23.50.00:021][673]LogModuleManager: Shutting down and abandoning module LocalizationService (183)
+[2016.11.12-23.50.00:021][673]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (182)
+[2016.11.12-23.50.00:021][673]LogModuleManager: Shutting down and abandoning module HardwareTargeting (181)
+[2016.11.12-23.50.00:021][673]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (180)
+[2016.11.12-23.50.00:021][673]LogModuleManager: Shutting down and abandoning module UndoHistory (179)
+[2016.11.12-23.50.00:021][673]LogModuleManager: Shutting down and abandoning module UserFeedback (178)
+[2016.11.12-23.50.00:021][673]LogModuleManager: Shutting down and abandoning module XmlParser (177)
+[2016.11.12-23.50.00:021][673]LogModuleManager: Shutting down and abandoning module Blutility (176)
+[2016.11.12-23.50.00:021][673]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (175)
+[2016.11.12-23.50.00:021][673]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (174)
+[2016.11.12-23.50.00:021][673]LogModuleManager: Shutting down and abandoning module InputBindingEditor (173)
+[2016.11.12-23.50.00:021][673]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (172)
+[2016.11.12-23.50.00:022][673]LogModuleManager: Shutting down and abandoning module SettingsEditor (171)
+[2016.11.12-23.50.00:022][673]LogModuleManager: Shutting down and abandoning module ProjectLauncher (170)
+[2016.11.12-23.50.00:022][673]LogModuleManager: Shutting down and abandoning module SessionFrontend (169)
+[2016.11.12-23.50.00:022][673]LogModuleManager: Shutting down and abandoning module ProfilerClient (168)
+[2016.11.12-23.50.00:022][673]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (167)
+[2016.11.12-23.50.00:022][673]LogModuleManager: Shutting down and abandoning module DeviceManager (166)
+[2016.11.12-23.50.00:076][673]LogModuleManager: Shutting down and abandoning module AutomationController (165)
+[2016.11.12-23.50.00:076][673]LogModuleManager: Shutting down and abandoning module AutomationWindow (164)
+[2016.11.12-23.50.00:076][673]LogModuleManager: Shutting down and abandoning module Layers (163)
+[2016.11.12-23.50.00:076][673]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (162)
+[2016.11.12-23.50.00:076][673]LogModuleManager: Shutting down and abandoning module DetailCustomizations (161)
+[2016.11.12-23.50.00:076][673]LogModuleManager: Shutting down and abandoning module PackagesDialog (160)
+[2016.11.12-23.50.00:076][673]LogModuleManager: Shutting down and abandoning module AnimGraph (159)
+[2016.11.12-23.50.00:076][673]LogModuleManager: Shutting down and abandoning module Persona (158)
+[2016.11.12-23.50.00:076][673]LogModuleManager: Shutting down and abandoning module Kismet (157)
+[2016.11.12-23.50.00:081][673]LogModuleManager: Shutting down and abandoning module GraphEditor (156)
+[2016.11.12-23.50.00:081][673]LogModuleManager: Shutting down and abandoning module ClassViewer (155)
+[2016.11.12-23.50.00:082][673]LogModuleManager: Shutting down and abandoning module Toolbox (154)
+[2016.11.12-23.50.00:082][673]LogModuleManager: Shutting down and abandoning module ModuleUI (153)
+[2016.11.12-23.50.00:082][673]LogModuleManager: Shutting down and abandoning module MovieSceneTools (152)
+[2016.11.12-23.50.00:082][673]LogModuleManager: Shutting down and abandoning module OutputLog (151)
+[2016.11.12-23.50.00:082][673]LogModuleManager: Shutting down and abandoning module GammaUI (150)
+[2016.11.12-23.50.00:082][673]LogModuleManager: Shutting down and abandoning module Documentation (149)
+[2016.11.12-23.50.00:082][673]LogModuleManager: Shutting down and abandoning module Niagara (148)
+[2016.11.12-23.50.00:082][673]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (147)
+[2016.11.12-23.50.00:082][673]LogModuleManager: Shutting down and abandoning module AnalyticsET (146)
+[2016.11.12-23.50.00:082][673]LogModuleManager: Shutting down and abandoning module PortalServices (145)
+[2016.11.12-23.50.00:082][673]LogModuleManager: Shutting down and abandoning module PortalRpc (144)
+[2016.11.12-23.50.00:082][673]LogModuleManager: Shutting down and abandoning module MessagingRpc (143)
+[2016.11.12-23.50.00:082][673]LogModuleManager: Shutting down and abandoning module GameplayDebugger (142)
+[2016.11.12-23.50.00:083][673]LogModuleManager: Shutting down and abandoning module AITestSuite (141)
+[2016.11.12-23.50.00:083][673]LogModuleManager: Shutting down and abandoning module AIModule (140)
+[2016.11.12-23.50.00:083][673]LogModuleManager: Shutting down and abandoning module ProfilerService (139)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module TaskGraph (138)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module SlateRemote (137)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module SteamVRController (136)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module SteamVR (135)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (134)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (133)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module OculusLibrary (132)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module OculusInput (131)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (130)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module CableComponent (129)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (128)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (126)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module HTML5Networking (125)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (124)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module GeometryCache (123)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module AlembicLibrary (122)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module AlembicImporter (121)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module SuperSearch (120)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (119)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (118)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module PluginBrowser (117)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (116)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module EpicSurvey (115)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module DesktopPlatform (114)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (113)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module UObjectPlugin (112)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (111)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (110)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module SourceControl (109)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module GitSourceControl (108)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (107)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (106)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (105)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module MeshPaint (104)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (103)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (102)
+[2016.11.12-23.50.00:172][673]LogModuleManager: Shutting down and abandoning module HotReload (101)
+[2016.11.12-23.50.00:173][673]LogModuleManager: Shutting down and abandoning module MainFrame (100)
+[2016.11.12-23.50.00:173][673]LogModuleManager: Shutting down and abandoning module LevelEditor (99)
+[2016.11.12-23.50.00:173][673]LogModuleManager: Shutting down and abandoning module ContentBrowser (98)
+[2016.11.12-23.50.00:174][673]LogModuleManager: Shutting down and abandoning module Paper2DEditor (97)
+[2016.11.12-23.50.00:174][673]LogModuleManager: Shutting down and abandoning module UdpMessaging (96)
+[2016.11.12-23.50.00:275][673]LogModuleManager: Shutting down and abandoning module TcpMessaging (95)
+[2016.11.12-23.50.00:375][673]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2016.11.12-23.50.00:375][673]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2016.11.12-23.50.00:375][673]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2016.11.12-23.50.00:375][673]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2016.11.12-23.50.00:375][673]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2016.11.12-23.50.00:375][673]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2016.11.12-23.50.00:375][673]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2016.11.12-23.50.00:375][673]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2016.11.12-23.50.00:375][673]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2016.11.12-23.50.00:375][673]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2016.11.12-23.50.00:375][673]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2016.11.12-23.50.00:375][673]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2016.11.12-23.50.00:375][673]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2016.11.12-23.50.00:375][673]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2016.11.12-23.50.00:375][673]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2016.11.12-23.50.00:375][673]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2016.11.12-23.50.00:375][673]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2016.11.12-23.50.00:375][673]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2016.11.12-23.50.00:375][673]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2016.11.12-23.50.00:375][673]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2016.11.12-23.50.00:375][673]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2016.11.12-23.50.00:375][673]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2016.11.12-23.50.00:377][673]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2016.11.12-23.50.00:377][673]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2016.11.12-23.50.00:377][673]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2016.11.12-23.50.00:377][673]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2016.11.12-23.50.00:377][673]LogModuleManager: Shutting down and abandoning module Core (67)
+[2016.11.12-23.50.00:377][673]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2016.11.12-23.50.00:377][673]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.11.12-23.50.00:377][673]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Winpro/Documents/GitHub/gryphons/Gryphon/Content/' was aborted.
+[2016.11.12-23.50.00:377][673]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.11.12-23.50.00:377][673]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2016.11.12-23.50.00:548][673]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2016.11.12-23.50.00:548][673]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2016.11.12-23.50.00:548][673]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2016.11.12-23.50.00:548][673]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2016.11.12-23.50.00:567][673]LogDerivedDataCache: Shutdown
+[2016.11.12-23.50.00:567][673]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2016.11.12-23.50.00:567][673]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2016.11.12-23.50.00:567][673]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2016.11.12-23.50.00:567][673]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2016.11.12-23.50.00:567][673]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2016.11.12-23.50.00:567][673]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2016.11.12-23.50.00:567][673]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2016.11.12-23.50.00:567][673]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2016.11.12-23.50.00:567][673]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2016.11.12-23.50.00:567][673]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2016.11.12-23.50.00:567][673]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2016.11.12-23.50.00:567][673]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2016.11.12-23.50.00:567][673]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2016.11.12-23.50.00:567][673]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2016.11.12-23.50.00:567][673]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2016.11.12-23.50.00:567][673]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2016.11.12-23.50.00:567][673]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2016.11.12-23.50.00:567][673]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2016.11.12-23.50.00:567][673]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2016.11.12-23.50.00:567][673]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2016.11.12-23.50.00:567][673]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2016.11.12-23.50.00:567][673]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2016.11.12-23.50.00:567][673]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2016.11.12-23.50.00:567][673]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2016.11.12-23.50.00:567][673]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2016.11.12-23.50.00:567][673]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2016.11.12-23.50.00:567][673]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2016.11.12-23.50.00:568][673]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2016.11.12-23.50.00:568][673]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2016.11.12-23.50.00:568][673]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2016.11.12-23.50.00:568][673]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2016.11.12-23.50.00:568][673]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2016.11.12-23.50.00:568][673]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2016.11.12-23.50.00:568][673]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2016.11.12-23.50.00:568][673]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.11.12-23.50.00:568][673]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.11.12-23.50.00:568][673]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.11.12-23.50.00:568][673]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.11.12-23.50.00:568][673]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.11.12-23.50.00:568][673]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2016.11.12-23.50.00:568][673]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2016.11.12-23.50.00:568][673]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2016.11.12-23.50.00:568][673]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2016.11.12-23.50.00:568][673]LogOnline:Display: Unloading online subsystem: NULL
+[2016.11.12-23.50.00:568][673]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.11.12-23.50.00:568][673]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.11.12-23.50.00:568][673]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDFA0B99D-4896-8309-DD52-319658571CEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.2-3172292%2B%2B%2BUE4%2BRelease-4.13&UserID=dea57ece4b9a31d787252b83ae0c451e%7Ccb27fd713bcf49539bbe9843e8be73ff%7Cedd14023-5e2c-4ddf-abfd-9490a1844742&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.11.12-23.50.00:584][673]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.11.12-23.50.00:584][673]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.11.12-23.50.00:585][673]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.11.12-23.50.00:585][673]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.11.12-23.50.00:585][673]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.11.12-23.50.00:586][673]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.11.12-23.50.00:586][673]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.11.12-23.50.00:586][673]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.11.12-23.50.00:586][673]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.11.12-23.50.00:586][673]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.11.12-23.50.00:586][673]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.11.12-23.50.00:586][673]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.11.12-23.50.00:586][673]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.11.12-23.50.00:586][673]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.11.12-23.50.00:586][673]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.11.12-23.50.00:588][673]LogExit: Exiting.
+[2016.11.12-23.50.00:596][673]Log file closed, 11/12/16 17:50:00
